@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "486182441965",
+    "project_id": "pharmacy-in-pocket2",
+    "storage_bucket": "pharmacy-in-pocket2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486182441965:android:177998ed9217767ed0cde4",
+        "android_client_info": {
+          "package_name": "com.example.pharmacy_in_pocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486182441965-1qpjfpqid4ak6uvohsbk4cdql6ug48dc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFxswWHcjX9q7hEZezZOAH_NtSXULUcv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486182441965-1qpjfpqid4ak6uvohsbk4cdql6ug48dc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
